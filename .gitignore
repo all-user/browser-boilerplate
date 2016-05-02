@@ -1,0 +1,4 @@
+*.map
+src/index.*
+src/bundle.*
+test/bundle.js
