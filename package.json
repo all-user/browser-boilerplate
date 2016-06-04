@@ -1,7 +1,7 @@
 {
-  "name": "browser-boilerplate",
+  "name": "browser-seed",
   "version": "0.0.1",
-  "description": "boilerplate for browserify, babel, jade, stylus, testem, mocha, power-assert, eslint, browser-sync project.",
+  "description": "seed for browserify, babel, jade, stylus, testem, mocha, power-assert, eslint, browser-sync project.",
   "main": "dist/bundle.js",
   "scripts": {
     "help": "npm-run-help",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/all-user/browser-boilerplate.git"
+    "url": "git+ssh://git@github.com/all-user/browser-seed.git"
   },
   "keywords": [
-    "boilerplate",
+    "seed",
     "browserify",
     "babel",
     "jade",
@@ -44,9 +44,9 @@
   "author": "Keita Okamoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/all-user/browser-boilerplate/issues"
+    "url": "https://github.com/all-user/browser-seed/issues"
   },
-  "homepage": "https://github.com/all-user/browser-boilerplate#readme",
+  "homepage": "https://github.com/all-user/browser-seed#readme",
   "devDependencies": {
     "babel-eslint": "^6.0.4",
     "babel-plugin-unassert": "^2.1.0",
